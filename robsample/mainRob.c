@@ -91,10 +91,10 @@ int main(int argc, char *argv[])
         /* show LineSensor values */
         bool line[7];
         GetLineSensor(line);
-        for(int i=0;i<N_LINE_ELEMENTS;i++) {
-            fprintf(stderr,"%s",line[i]?"1":"0");
-        }
-        fprintf(stderr,"\n");
+        //for(int i=0;i<N_LINE_ELEMENTS;i++) {
+        //    fprintf(stderr,"%s",line[i]?"1":"0");
+        //}
+        //fprintf(stderr,"\n");
 
         if(GetFinished()) /* Simulator has received Finish() or Robot Removed */
         {
@@ -133,6 +133,9 @@ int main(int argc, char *argv[])
                      // Wander
                      DetermineAction(1,&lPow,&rPow);
                      DriveMotors(lPow,rPow);
+                     break;
+		 case STOP: /* Stop */
+                     DriveMotors(0.0,0.0);
 
                      break;
 	}

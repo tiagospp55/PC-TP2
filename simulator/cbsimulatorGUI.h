@@ -33,6 +33,9 @@
 #include <QProcess>
 #include <QStringListModel>
 
+
+#define MAILBOXLIMIT 2000000
+
 using std::vector;
 
 class cbSimulator;
@@ -83,6 +86,8 @@ private:
     int nRobots;
     vector< cbRobotInfo *> robotScores;
     Ui::cbSimulatorGUI *ui;
+
+    int mailBoxSize;
 
 private slots:
     void setSimTime(int);

@@ -79,6 +79,12 @@ bool cbActionHandler::startElement( const QString&, const QString&, const QStrin
 		        if (visitingled == "On") action.visitingLed = true;
 			else action.visitingLed = false;
 		}
+		const QString &resetSim = attr.value(QString("Reset"));
+		if(!resetSim.isNull()) {
+			action.resetSim = true;
+		    if (resetSim == "On") action.resetSim = true;
+			else action.resetSim = false;
+		}
 	}
 	else if (tag == "SensorRequests") {
 		for(int a=0; a < attr.length(); a++) {

@@ -372,7 +372,7 @@ int main(int argc, char *argv[])
 #endif
 
         /* start simulator timer */
-	simulator.startTimer();
+	//simulator.startTimer();
 
         /* preparing ALARM timer */
     cbSimulatorGUI gui(&simulator);

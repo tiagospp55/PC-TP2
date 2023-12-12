@@ -24,7 +24,7 @@ void cbRobotAction::reset(void)
 {
 	leftMotorChanged = rightMotorChanged 
 		= endLedChanged = returningLedChanged 
-                = visitingLedChanged=sayReceived=false;
+                = visitingLedChanged=sayReceived=resetSim=false;
 	sensorRequests.clear();
         sayMessage="";
 }

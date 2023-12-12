@@ -165,6 +165,9 @@ public slots:
 
     void printTargetRelativePositions();
 
+	void CheckIn();
+	void RobotActions();
+
 signals:
     void toggleGPS(bool);
     void toggleBeaconSensor(bool);
@@ -228,10 +231,9 @@ protected: // data members
     int scoring;
 
 protected: // member functions
-	void CheckIn();
 	void ViewCommands();
 	void PanelCommands();
-	void RobotActions();
+//	void RobotActions();
 	void Log(ostream &, bool withactions=true);
 	void NextPositions();
 	void CheckCollisions();

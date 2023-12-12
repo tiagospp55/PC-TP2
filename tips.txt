@@ -1,0 +1,3 @@
+// simulações mais rápidas nesta branch (tem que ser no git do stor)
+git checkout ciberEnv
+

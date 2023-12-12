@@ -337,7 +337,7 @@ void CRQComm::dataControler() //Called when the socket receive something
 
                 case CRQCommHandler::RESTART:
                 {
-                    closeWindows();
+                    //FOR sync closeWindows();
                     break;
                 }
 

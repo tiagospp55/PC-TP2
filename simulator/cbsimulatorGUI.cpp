@@ -121,6 +121,8 @@ cbSimulatorGUI::cbSimulatorGUI( cbSimulator *sim, QWidget* parent, Qt::WindowFla
 
     this->adjustSize();
 
+    mailBoxSize = 0;
+
 }
 
 cbSimulatorGUI::~cbSimulatorGUI()
@@ -164,8 +166,23 @@ void cbSimulatorGUI::writeOnBoard(const QString msg, int id, int type)
             return;
         }
 
+
         ui->textEdit_Mailbox->setTextColor(c);
         ui->textEdit_Mailbox->append(msg);
+        mailBoxSize += msg.size();
+
+        if(mailBoxSize > MAILBOXLIMIT) {
+            mailBoxSize = 0;
+            ui->textEdit_Mailbox->clear();
+            // QString newStr = ui->textEdit_Mailbox->toPlainText();
+            // newStr = newStr.right(MAILBOXLIMIT/2);
+            // ui->textEdit_Mailbox->setTextColor(Qt::black);
+            // ui->textEdit_Mailbox->setText(newStr);
+            // mailBoxSize = MAILBOXLIMIT/2;
+            // QTextCursor cursor(ui->textEdit_Mailbox->textCursor());
+            // cursor.movePosition(QTextCursor::End, QTextCursor::MoveAnchor);
+            // ui->textEdit_Mailbox->setTextCursor(cursor);
+        }       
     }
 }
 

@@ -41,7 +41,8 @@ CRQScene::CRQScene( CRLab *lb, QObject * parent  )
 #ifdef DEBUG
     cout << "CRQScene::CRQScene\n";
 #endif
-	sound = 'y';
+	//sound = 'y';
+	sound = 'n';
     zoom = 34;			// 1 unidade no  lab ==> 34 pixeis no scene
 	lab = lb;
 	robotsVarStatus = 0;

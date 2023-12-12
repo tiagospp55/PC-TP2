@@ -97,12 +97,15 @@ cbRobot::cbRobot(const double irSensorAngle[]) : cbClient()
 	lineSensor->setFifoLatency(cbLineSensor::sensorLatency);
     lineSensor->setPosition(0.438); // Adjusted for 7 elements and 0.08 interelemdist
 
+    resetRobot();
 
-    simulator = 0;
-    name = 0;
-	id = 0;
-	score = 0;
-	scorePenalties=0;
+}
+
+void cbRobot::resetRobot()
+{
+	score          = 0;
+	scorePenalties = 0;
+    scoreControl   = 0;
 	arrivalTime=0;
 	startReturningTime=0;
 	returningTime=0;
@@ -128,8 +131,7 @@ cbRobot::cbRobot(const double irSensorAngle[]) : cbClient()
 
 	vel=0.0;
 
-        nextPathInd = 1;  // used for CONTROL scoring
-
+    nextPathInd = 1;  // used for CONTROL scoring
 }
 
 cbRobot::~cbRobot()
@@ -164,6 +166,8 @@ const char *cbRobot::curStateAsString()
 void cbRobot::setSimulator(cbSimulator *s)
 {
 	simulator = s; 
+
+    connect(this, &QUdpSocket::readyRead, simulator, &cbSimulator::RobotActions);
 
 	// Set the number of beacon sensors
 	beaconSensors.resize(simulator->Lab()->nBeacons());

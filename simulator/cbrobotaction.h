@@ -44,7 +44,7 @@ public:
 
 public: // data members
 	double leftMotor, rightMotor;
-	bool endLed, returningLed, visitingLed;
+	bool endLed, returningLed, visitingLed, resetSim;
 	bool leftMotorChanged, rightMotorChanged, 
              endLedChanged, returningLedChanged, 
              visitingLedChanged, sayReceived;

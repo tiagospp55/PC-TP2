@@ -56,6 +56,8 @@ public:
 	cbRobot(const double irSensorAngles[NUM_IR_SENSORS]);
 	virtual ~cbRobot();
 
+    void resetRobot();
+
 	void setName(const char *name);
 	const char *Name();
 	void setId(unsigned int id);
