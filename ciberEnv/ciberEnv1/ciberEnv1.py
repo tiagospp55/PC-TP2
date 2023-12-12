@@ -19,9 +19,12 @@ class CiberEnv1(Env):
 
         self.action_space=act_space
 
+        print('start sim')
         self.sim_proc = subprocess.Popen(['../simulator/simulator', *sim_args])
+        print('started sim')
 
         time.sleep(5)
+        print('started2 sim')
 
         self.prev_score = 0
         

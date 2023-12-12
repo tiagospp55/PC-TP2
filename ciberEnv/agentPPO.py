@@ -11,7 +11,7 @@ SIM_IP = "127.0.0.1"
 SIM_PORT = 6000
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-m','--model', help='model filename', default='ciber_ppo_3')
+parser.add_argument('-m','--model', help='model filename', default='ciberlinenev_ppo_1')
 parser.add_argument('-s','--server', help='simulator address', default='localhost')
 
 args = parser.parse_args()
@@ -23,21 +23,19 @@ rob = CRobLink("agentPPO", 0, args.server)
 action = np.array([0.0,0.0])
 
 obs = []
-for i in range(5):
-    rob.readSensors()
-    rob.driveMotors(0.15,0.15)
+# for i in range(5):
+#     rob.readSensors()
+#     rob.driveMotors(0.15,0.15)
 
-    obsl = [float(x) for x in rob.measures.lineSensor]
-    obs = np.append(np.array(obsl),obs)
+#     obsl = [float(x) for x in rob.measures.lineSensor]
+#     obs = np.append(np.array(obsl),obs)
 
 
 while True:
     rob.readSensors()
 
-    obsl = [float(x) for x in rob.measures.lineSensor]
-    #obs = np.append(np.array(obsl),action)
-    obs = np.append(np.array(obsl),obs[0:7*5])
-    #obs = obsl
+    obs_ir = rob.measures.irSensor
+    obs = np.append(np.array(obs_ir),np.array(rob.measures.collision))
 
     action, _states = model.predict(obs, deterministic=True)
 

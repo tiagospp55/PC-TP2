@@ -19,7 +19,7 @@ class CiberLineEnv(CiberEnv1):
                                           shape=(5,),dtype=np.float32),
                          spaces.Box(low=-0.15, high=0.15,shape=(2,),dtype=np.float32),
                          ["--param","../Labs/rmi-2122/C1-env-config.xml",
-                          "--lab","../Labs/rmi-2122/C1-lab.xml", "--grid", "../Labs/rmi-2122/C1-grid.xml",
+                          "--lab","../Labs/pc-2324/C1-lab.xml", "--grid", "../Labs/pc-2324/C1-grid.xml",
                           "--scoring","1"]
         )
 
