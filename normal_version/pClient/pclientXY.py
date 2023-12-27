@@ -32,20 +32,21 @@ class MyRob(CRobLinkAngs):
         while not self.measures.start:
             self.readSensors()
 
+        
         while True:
-
             orientation = self.checkWalls()
-            if orientation == 'front':
-                self.driveMotors(0.5, 0.5)
-            if orientation == 'turn_left':
-                self.driveMotors(0.0, 0.1)
-            if orientation == 'turn_right':
-                self.driveMotors(0.1, 0.0)
-            if orientation == 'front_wall':
-                self.driveMotors(0.0, 0.0)
-                self.driveMotors(-0.5, 0.5)    
-            if orientation == 'Nothing':
-                self.driveMotors(0.0, 0.0)
+            print(orientation)
+
+            actions = {
+                'front': (0.5, 0.5),
+                'turn_left': (0.0, 0.15),
+                'turn_right': (0.15, 0.0),
+                'front_wall': (-0.25, 0.25)
+            }
+
+            if orientation in actions:
+                self.driveMotors(*actions[orientation])
+
 
 
 
@@ -55,27 +56,19 @@ class MyRob(CRobLinkAngs):
         return [1/ value if value != 0 else 0 for value in self.measures.irSensor]
 
     def checkWalls(self):
-        front, left, right, back = self.sensorValues()
-        print("--------------------")
+        front,_,right,_ = self.sensorValues()
 
-        print(self.measures.compass)
-        print("--------------------")
-        print(self.measures.compassReady)
-        print('front', front, '\n', 'left', left, '\n', 'right' ,right, '\n', 'back', back)
-        compass = self.measures.compass
-        if front <= 2 and right <= 0.4:
-            return 'front_wall'
-        elif right > 0.45 and right < 0.35:
+        if right < 0.4 and front > 0.6:
+            return 'turn_left'
+        elif right > 0.55 and right < 0.25:
             return 'front'
-        elif right > 0.45 :
+        elif front <= 0.5 and front > 0:
+            return 'front_wall'
+        elif right > 0.45:
             return 'turn_right'
         elif right < 0.35 :
             return 'turn_left'
-        
 
-        if front > 0.6 and left > 0.6 and right > 0.6 and back > 0.6:
-            return 'Nothing'
-        
         return 'front'
         
         
