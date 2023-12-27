@@ -3,7 +3,7 @@
 		MotorsNoise="1.5" KeyTime="5000"
 		GPS="Off" GPSLinNoise="0.0" GPSDirNoise="0" 
 		BeaconSensor="Off" 
-		CompassSensor="Off" 
+		CompassSensor="On" 
 		ScoreSensor="Off" ShowActions="True" NBeacons="0" 
 		NRequestsPerCycle="0" 
 		ObstacleRequestable="Off" BeaconRequestable="Off" 
