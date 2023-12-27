@@ -1,0 +1,326 @@
+{
+	"BUILD_DIR" : "/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tiago/Desktop/PC-TP2/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tiago/Desktop/PC-TP2/build/simulator",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tiago/Desktop/PC-TP2/simulator",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/tiago/Desktop/PC-TP2/simulator/CMakeLists.txt",
+		"/home/tiago/Desktop/PC-TP2/simulator/default.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/tiago/Desktop/PC-TP2",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbactionhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbactionhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbbeacon.h",
+			"MU",
+			"EWIEGA46WW/moc_cbbeacon.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbbutton.h",
+			"MU",
+			"EWIEGA46WW/moc_cbbutton.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbclient.h",
+			"MU",
+			"EWIEGA46WW/moc_cbclient.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbcontrolpanel.h",
+			"MU",
+			"EWIEGA46WW/moc_cbcontrolpanel.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbgraph.h",
+			"MU",
+			"EWIEGA46WW/moc_cbgraph.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbgrid.h",
+			"MU",
+			"EWIEGA46WW/moc_cbgrid.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbgridhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbgridhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cblab.h",
+			"MU",
+			"EWIEGA46WW/moc_cblab.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cblabdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_cblabdialog.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cblabhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cblabhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbmanagerobots.h",
+			"MU",
+			"EWIEGA46WW/moc_cbmanagerobots.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbmotor.h",
+			"MU",
+			"EWIEGA46WW/moc_cbmotor.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbpanel.h",
+			"MU",
+			"EWIEGA46WW/moc_cbpanel.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbparamdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_cbparamdialog.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbparameters.h",
+			"MU",
+			"EWIEGA46WW/moc_cbparameters.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbparamhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbparamhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbpoint.h",
+			"MU",
+			"EWIEGA46WW/moc_cbpoint.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbposition.h",
+			"MU",
+			"EWIEGA46WW/moc_cbposition.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbreceptionhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbreceptionhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbreceptionist.h",
+			"MU",
+			"EWIEGA46WW/moc_cbreceptionist.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbrobot.h",
+			"MU",
+			"EWIEGA46WW/moc_cbrobot.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbrobotaction.h",
+			"MU",
+			"EWIEGA46WW/moc_cbrobotaction.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbrobotbeacon.h",
+			"MU",
+			"EWIEGA46WW/moc_cbrobotbeacon.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbrobotinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_cbrobotinfo.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbsensor.h",
+			"MU",
+			"EWIEGA46WW/moc_cbsensor.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbsimulator.h",
+			"MU",
+			"EWIEGA46WW/moc_cbsimulator.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbsimulatorGUI.h",
+			"MU",
+			"EWIEGA46WW/moc_cbsimulatorGUI.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbtarget.h",
+			"MU",
+			"EWIEGA46WW/moc_cbtarget.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbutils.h",
+			"MU",
+			"EWIEGA46WW/moc_cbutils.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbview.h",
+			"MU",
+			"EWIEGA46WW/moc_cbview.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbviewhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbviewhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbwall.h",
+			"MU",
+			"EWIEGA46WW/moc_cbwall.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/tiago/Desktop/PC-TP2/simulator",
+		"/home/tiago/Desktop/PC-TP2/build/simulator",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/tiago/Desktop/PC-TP2/build/simulator/CMakeFiles/simulator_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/tiago/Desktop/PC-TP2/build/simulator/CMakeFiles/simulator_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbactionhandler.cpp",
+			"MU",
+			null
+		],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbbeacon.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbbutton.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbclient.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbcontrolpanel.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbgraph.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbgrid.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbgridhandler.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cblab.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cblabdialog.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cblabhandler.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbmanagerobots.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbmotor.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbpanel.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbparamdialog.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbparameters.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbparamhandler.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbpoint.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbposition.cpp", "MU", null ],
+		[
+			"/home/tiago/Desktop/PC-TP2/simulator/cbreceptionhandler.cpp",
+			"MU",
+			null
+		],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbreceptionist.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbrobot.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbrobotaction.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbrobotbeacon.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbrobotinfo.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbsensor.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbsimulator.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbsimulatorGUI.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbtarget.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbutils.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbview.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbviewhandler.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/cbwall.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/simulator/simulator.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,457 @@
+[
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/simulator_autogen/mocs_compilation.cpp.o -c /home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/mocs_compilation.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbactionhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbactionhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbactionhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbbeacon.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbbeacon.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbbeacon.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbbutton.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbbutton.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbbutton.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbclient.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbclient.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbclient.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbcontrolpanel.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbcontrolpanel.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbcontrolpanel.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbgraph.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbgraph.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbgraph.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbgrid.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbgrid.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbgrid.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbgridhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbgridhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbgridhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cblab.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cblab.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cblab.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cblabdialog.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cblabdialog.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cblabdialog.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cblabhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cblabhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cblabhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbmanagerobots.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbmanagerobots.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbmanagerobots.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbmotor.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbmotor.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbmotor.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbpanel.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbpanel.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbpanel.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbparamdialog.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbparamdialog.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbparamdialog.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbparameters.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbparameters.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbparameters.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbparamhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbparamhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbparamhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbpoint.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbpoint.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbpoint.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbposition.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbposition.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbposition.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbreceptionhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbreceptionhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbreceptionhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbreceptionist.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbreceptionist.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbreceptionist.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbrobotaction.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbrobotaction.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbrobotaction.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbrobotbeacon.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbrobotbeacon.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbrobotbeacon.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbrobot.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbrobot.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbrobot.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbrobotinfo.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbrobotinfo.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbrobotinfo.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbsensor.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbsensor.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbsensor.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbsimulator.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbsimulator.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbsimulator.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbsimulatorGUI.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbsimulatorGUI.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbsimulatorGUI.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbtarget.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbtarget.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbtarget.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbutils.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbutils.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbutils.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbview.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbview.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbview.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbviewhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbviewhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbviewhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/cbwall.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/cbwall.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/cbwall.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/simulator.cpp.o -c /home/tiago/Desktop/PC-TP2/simulator/simulator.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/simulator/simulator.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/simulator",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/include -I/home/tiago/Desktop/PC-TP2/simulator -I/home/tiago/Desktop/PC-TP2/build/simulator -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/simulator.dir/simulator_autogen/EWIEGA46WW/qrc_default.cpp.o -c /home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/EWIEGA46WW/qrc_default.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/simulator/simulator_autogen/EWIEGA46WW/qrc_default.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Viewer_autogen/mocs_compilation.cpp.o -c /home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/mocs_compilation.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/crmainparameters.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/crmainparameters.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/crmainparameters.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/crqparamhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/crqparamhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/crqparamhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/main.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/main.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/main.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Lab/crbeacon.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Lab/crbeacon.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crbeacon.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Lab/crgrid.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Lab/crgrid.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crgrid.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Lab/crlab.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Lab/crlab.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crlab.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Lab/crrobot.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Lab/crrobot.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crrobot.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Lab/crtarget.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Lab/crtarget.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crtarget.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Lab/crvertice.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Lab/crvertice.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crvertice.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Lab/crwall.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Lab/crwall.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crwall.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Comm/crqcomm.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcomm.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcomm.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Comm/crqcommhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcommhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcommhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Comm/crqreplyhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/Comm/crqreplyhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqreplyhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/crqrobotinfo.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/crqrobotinfo.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/crqrobotinfo.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/crqlabview.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/crqlabview.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/crqlabview.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/crqdataview.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/crqdataview.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/crqdataview.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/crqscene.cpp.o -c /home/tiago/Desktop/PC-TP2/Viewer/crqscene.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/Viewer/crqscene.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/Viewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include -I/home/tiago/Desktop/PC-TP2/Viewer -I/home/tiago/Desktop/PC-TP2/build/Viewer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/Viewer.dir/Viewer_autogen/EWIEGA46WW/qrc_default.cpp.o -c /home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/EWIEGA46WW/qrc_default.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/EWIEGA46WW/qrc_default.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/libRobSock",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -DRobSock_EXPORTS -I/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/include -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -fPIC -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/RobSock.dir/RobSock_autogen/mocs_compilation.cpp.o -c /home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/mocs_compilation.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/libRobSock",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -DRobSock_EXPORTS -I/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/include -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -fPIC -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/RobSock.dir/cmeasures.cpp.o -c /home/tiago/Desktop/PC-TP2/libRobSock/cmeasures.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/libRobSock/cmeasures.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/libRobSock",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -DRobSock_EXPORTS -I/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/include -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -fPIC -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/RobSock.dir/croblink.cpp.o -c /home/tiago/Desktop/PC-TP2/libRobSock/croblink.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/libRobSock/croblink.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/libRobSock",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -DRobSock_EXPORTS -I/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/include -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -fPIC -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/RobSock.dir/csimparam.cpp.o -c /home/tiago/Desktop/PC-TP2/libRobSock/csimparam.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/libRobSock/csimparam.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/libRobSock",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -DRobSock_EXPORTS -I/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/include -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -fPIC -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/RobSock.dir/netif.cpp.o -c /home/tiago/Desktop/PC-TP2/libRobSock/netif.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/libRobSock/netif.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/libRobSock",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -DRobSock_EXPORTS -I/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/include -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -fPIC -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/RobSock.dir/RobSock.cpp.o -c /home/tiago/Desktop/PC-TP2/libRobSock/RobSock.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/libRobSock/RobSock.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/libRobSock",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -DRobSock_EXPORTS -I/home/tiago/Desktop/PC-TP2/build/libRobSock/RobSock_autogen/include -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -fPIC -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/RobSock.dir/structureparser.cpp.o -c /home/tiago/Desktop/PC-TP2/libRobSock/structureparser.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/libRobSock/structureparser.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/logplayer_autogen/mocs_compilation.cpp.o -c /home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/mocs_compilation.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbbeacon.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbbeacon.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbbeacon.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbclient.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbclient.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbclient.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbgrid.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbgrid.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbgrid.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbgridhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbgridhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbgridhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cblab.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cblab.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cblab.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cblabhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cblabhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cblabhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbparameters.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbparameters.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbparameters.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbparamhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbparamhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbparamhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbpoint.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbpoint.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbpoint.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbposition.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbposition.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbposition.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbreceptionhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbreceptionhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbreceptionhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbreceptionist.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbreceptionist.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbreceptionist.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cblogplayer.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cblogplayer.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cblogplayer.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbrobot.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbrobot.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbrobot.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbtarget.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbtarget.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbtarget.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbview.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbview.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbview.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbviewhandler.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbviewhandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbviewhandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbwall.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbwall.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbwall.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/cbloghandler.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/cbloghandler.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/cbloghandler.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/logplayer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/logplayer/logplayer_autogen/include -I/home/tiago/Desktop/PC-TP2/logplayer -I/home/tiago/Desktop/PC-TP2/build/logplayer -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/logplayer.dir/logplayer.cpp.o -c /home/tiago/Desktop/PC-TP2/logplayer/logplayer.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/logplayer/logplayer.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/robsample",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/robsample/robsample_autogen/include -I/home/tiago/Desktop/PC-TP2/robsample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/robsample.dir/robsample_autogen/mocs_compilation.cpp.o -c /home/tiago/Desktop/PC-TP2/build/robsample/robsample_autogen/mocs_compilation.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/robsample/robsample_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/robsample",
+  "command": "/usr/bin/cc -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/robsample/robsample_autogen/include -I/home/tiago/Desktop/PC-TP2/robsample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -o CMakeFiles/robsample.dir/mainRob.c.o -c /home/tiago/Desktop/PC-TP2/robsample/mainRob.c",
+  "file": "/home/tiago/Desktop/PC-TP2/robsample/mainRob.c"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/robsample",
+  "command": "/usr/bin/cc -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/robsample/robsample_autogen/include -I/home/tiago/Desktop/PC-TP2/robsample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -o CMakeFiles/robsample.dir/robfunc.c.o -c /home/tiago/Desktop/PC-TP2/robsample/robfunc.c",
+  "file": "/home/tiago/Desktop/PC-TP2/robsample/robfunc.c"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/GUISample",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/GUISample/GUISample_autogen/include -I/home/tiago/Desktop/PC-TP2/GUISample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/GUISample.dir/GUISample_autogen/mocs_compilation.cpp.o -c /home/tiago/Desktop/PC-TP2/build/GUISample/GUISample_autogen/mocs_compilation.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/build/GUISample/GUISample_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/GUISample",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/GUISample/GUISample_autogen/include -I/home/tiago/Desktop/PC-TP2/GUISample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/GUISample.dir/main.cpp.o -c /home/tiago/Desktop/PC-TP2/GUISample/main.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/GUISample/main.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/GUISample",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/GUISample/GUISample_autogen/include -I/home/tiago/Desktop/PC-TP2/GUISample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/GUISample.dir/lmap.cpp.o -c /home/tiago/Desktop/PC-TP2/GUISample/lmap.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/GUISample/lmap.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/GUISample",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/GUISample/GUISample_autogen/include -I/home/tiago/Desktop/PC-TP2/GUISample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/GUISample.dir/robview.cpp.o -c /home/tiago/Desktop/PC-TP2/GUISample/robview.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/GUISample/robview.cpp"
+},
+{
+  "directory": "/home/tiago/Desktop/PC-TP2/build/GUISample",
+  "command": "/usr/bin/c++ -DCIBERQTAPP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_XML_LIB -I/home/tiago/Desktop/PC-TP2/build/GUISample/GUISample_autogen/include -I/home/tiago/Desktop/PC-TP2/GUISample -I/home/tiago/Desktop/PC-TP2/libRobSock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtXml -O3 -DNDEBUG -DTRUE=1 -DFALSE=0 -fPIC -std=gnu++14 -o CMakeFiles/GUISample.dir/sampapp.cpp.o -c /home/tiago/Desktop/PC-TP2/GUISample/sampapp.cpp",
+  "file": "/home/tiago/Desktop/PC-TP2/GUISample/sampapp.cpp"
+}
+]

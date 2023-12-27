@@ -1,0 +1,11 @@
+// simulações mais rápidas nesta branch (tem que ser no git do stor)
+git checkout ciberEnv
+
+Existe o ficheiro ciberEnv que tem o que usamos a aula anterior
+
+
+
+COrrer o envirenment 
+python3 ciberCorridorEnv.py
+
+

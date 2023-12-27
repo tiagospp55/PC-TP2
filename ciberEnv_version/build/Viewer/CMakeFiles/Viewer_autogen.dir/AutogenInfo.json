@@ -1,0 +1,209 @@
+{
+	"BUILD_DIR" : "/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tiago/Desktop/PC-TP2/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tiago/Desktop/PC-TP2/build/Viewer",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tiago/Desktop/PC-TP2/Viewer",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/tiago/Desktop/PC-TP2/Viewer/CMakeLists.txt",
+		"/home/tiago/Desktop/PC-TP2/Viewer/default.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/tiago/Desktop/PC-TP2",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcomm.h",
+			"MU",
+			"BLIUQPIODL/moc_crqcomm.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcommhandler.h",
+			"MU",
+			"BLIUQPIODL/moc_crqcommhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqreplyhandler.h",
+			"MU",
+			"BLIUQPIODL/moc_crqreplyhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Lab/crbeacon.h",
+			"MU",
+			"JRLBQU3MDE/moc_crbeacon.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Lab/crgrid.h",
+			"MU",
+			"JRLBQU3MDE/moc_crgrid.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Lab/crlab.h",
+			"MU",
+			"JRLBQU3MDE/moc_crlab.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Lab/crrobot.h",
+			"MU",
+			"JRLBQU3MDE/moc_crrobot.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Lab/crtarget.h",
+			"MU",
+			"JRLBQU3MDE/moc_crtarget.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Lab/crvertice.h",
+			"MU",
+			"JRLBQU3MDE/moc_crvertice.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Lab/crwall.h",
+			"MU",
+			"JRLBQU3MDE/moc_crwall.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/crmainparameters.h",
+			"MU",
+			"EWIEGA46WW/moc_crmainparameters.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/crqdataview.h",
+			"MU",
+			"EWIEGA46WW/moc_crqdataview.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/crqlabview.h",
+			"MU",
+			"EWIEGA46WW/moc_crqlabview.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/crqparamhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_crqparamhandler.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/crqrobotinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_crqrobotinfo.cpp",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/crqscene.h",
+			"MU",
+			"EWIEGA46WW/moc_crqscene.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/tiago/Desktop/PC-TP2/Viewer",
+		"/home/tiago/Desktop/PC-TP2/build/Viewer",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtMultimedia",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/tiago/Desktop/PC-TP2/build/Viewer/Viewer_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/tiago/Desktop/PC-TP2/build/Viewer/CMakeFiles/Viewer_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/tiago/Desktop/PC-TP2/build/Viewer/CMakeFiles/Viewer_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcomm.cpp", "MU", null ],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqcommhandler.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/tiago/Desktop/PC-TP2/Viewer/Comm/crqreplyhandler.cpp",
+			"MU",
+			null
+		],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crbeacon.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crgrid.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crlab.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crrobot.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crtarget.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crvertice.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/Lab/crwall.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/crmainparameters.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/crqdataview.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/crqlabview.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/crqparamhandler.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/crqrobotinfo.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/crqscene.cpp", "MU", null ],
+		[ "/home/tiago/Desktop/PC-TP2/Viewer/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
