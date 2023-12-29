@@ -17,8 +17,8 @@ class MyRob(CRobLinkAngs):
 
     def init_fuzzy_controller(self):
         # Antecedents (Inputs)
-        universe = np.arange(0, 15, 0.01)
-        power_universe = np.arange(-0.4, 0.4, 0.01)
+        universe = np.arange(0, 11, 0.01)
+        power_universe = np.arange(-0.3, 0.3, 0.01)
         self.sensor_right = ctrl.Antecedent(universe,'right_sensor')
         self.sensor_front = ctrl.Antecedent(universe,'front_sensor')
 
@@ -27,34 +27,34 @@ class MyRob(CRobLinkAngs):
 
         self.sensor_right['close'] = fuzz.trimf(self.sensor_right.universe,[0,0,0.6])
         self.sensor_right['good'] = fuzz.trimf(self.sensor_right.universe,[0.5,0.5,0.7])
-        self.sensor_right['far'] = fuzz.trimf(self.sensor_right.universe,[0.6,10,15])
+        self.sensor_right['far'] = fuzz.trimf(self.sensor_right.universe,[0.6,10,11])
 
         self.sensor_front['close'] = fuzz.trimf(self.sensor_front.universe,[0,0.5,0.5])
         self.sensor_front['good'] = fuzz.trimf(self.sensor_front.universe,[0.4,0.6,0.7])
-        self.sensor_front['far'] = fuzz.trimf(self.sensor_front.universe,[0.65,10,15])
+        self.sensor_front['far'] = fuzz.trimf(self.sensor_front.universe,[0.65,10,11])
 
         # Consequents (Outputs)
         self.speed_left = ctrl.Consequent(power_universe, 'left_speed')
         self.speed_right = ctrl.Consequent(power_universe, 'right_speed')
 
-        self.speed_right['slow'] = fuzz.trimf(self.speed_right.universe, [-0.5, -0.15, 0])
-        self.speed_right['medium'] = fuzz.trimf(self.speed_right.universe, [-0.01, 0, 0.01])
-        self.speed_right['fast'] = fuzz.trimf(self.speed_right.universe, [0, 0.15, 0.5])
+        self.speed_right['inverse'] = fuzz.trimf(self.speed_right.universe, [-0.5, -0.15, 0])
+        self.speed_right['stop'] = fuzz.trimf(self.speed_right.universe, [-0.01, 0, 0.01])
+        self.speed_right['front'] = fuzz.trimf(self.speed_right.universe, [0, 0.15, 0.5])
 
-        self.speed_left['slow'] = fuzz.trimf(self.speed_left.universe, [-0.5, -0.15, 0])
-        self.speed_left['medium'] = fuzz.trimf(self.speed_left.universe, [-0.01, 0, 0.01])
-        self.speed_left['fast'] = fuzz.trimf(self.speed_left.universe, [0, 0.15, 0.5])
+        self.speed_left['inverse'] = fuzz.trimf(self.speed_left.universe, [-0.5, -0.15, 0])
+        self.speed_left['stop'] = fuzz.trimf(self.speed_left.universe, [-0.01, 0, 0.01])
+        self.speed_left['front'] = fuzz.trimf(self.speed_left.universe, [0, 0.15, 0.5])
 
         # Fuzzy rules
-        rule1 = ctrl.Rule(self.sensor_front['close'], (self.speed_left['slow'], self.speed_right['fast']))
+        rule1 = ctrl.Rule(self.sensor_front['close'], (self.speed_left['inverse'], self.speed_right['front']))
 
-        rule2 = ctrl.Rule(self.sensor_right['close'], (self.speed_right['fast'], self.speed_left['medium']))
+        rule2 = ctrl.Rule(self.sensor_right['close'], (self.speed_right['front'], self.speed_left['stop']))
 
-        rule3 = ctrl.Rule(self.sensor_right['far'], (self.speed_left['fast'], self.speed_right['medium']))
+        rule3 = ctrl.Rule(self.sensor_right['far'], (self.speed_left['front'], self.speed_right['stop']))
 
-        rule4 = ctrl.Rule(self.sensor_right['good'] & self.sensor_front['far'], (self.speed_left['fast'], self.speed_right['fast']))
-        rule5 = ctrl.Rule(self.sensor_right['good'] & self.sensor_front['good'], (self.speed_left['fast'], self.speed_right['fast']))
-        rule6 = ctrl.Rule(self.sensor_right['good'] & self.sensor_front['close'], (self.speed_left['slow'], self.speed_right['fast']))
+        rule4 = ctrl.Rule(self.sensor_right['good'] & self.sensor_front['far'], (self.speed_left['front'], self.speed_right['front']))
+        rule5 = ctrl.Rule(self.sensor_right['good'] & self.sensor_front['good'], (self.speed_left['front'], self.speed_right['front']))
+        rule6 = ctrl.Rule(self.sensor_right['good'] & self.sensor_front['close'], (self.speed_left['inverse'], self.speed_right['front']))
 
 
 
