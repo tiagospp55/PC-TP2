@@ -34,10 +34,10 @@ class MyRob(CRobLinkAngs):
 
 
             actions = {
-                'front': (0.5, 0.5),
+                'front': (0.15, 0.15),
                 'turn_left': (0.0, 0.15),
                 'turn_right': (0.15, 0.0),
-                'front_wall': (-0.25, 0.25)
+                'front_wall': (-0.15, 0.15)
             }
 
             if orientation in actions:
